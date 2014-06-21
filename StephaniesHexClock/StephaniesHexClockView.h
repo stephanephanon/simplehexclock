@@ -7,7 +7,7 @@
 //
 
 #import <ScreenSaver/ScreenSaver.h>
-
+#import <math.h>
 
 @interface StephaniesHexClockView : ScreenSaverView {
 @private

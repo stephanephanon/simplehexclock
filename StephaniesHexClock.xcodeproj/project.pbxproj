@@ -21,9 +21,9 @@
 		902B1B551955092300619573 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		902B1B561955092300619573 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		902B1B571955092300619573 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		902B1B5A1955092300619573 /* StephaniesHexClock-Info.plist */ = {isa = PBXFileReference; path = "StephaniesHexClock-Info.plist"; sourceTree = "<group>"; };
+		902B1B5A1955092300619573 /* StephaniesHexClock-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "StephaniesHexClock-Info.plist"; sourceTree = "<group>"; };
 		902B1B5C1955092300619573 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		902B1B5E1955092300619573 /* StephaniesHexClock-Prefix.pch */ = {isa = PBXFileReference; path = "StephaniesHexClock-Prefix.pch"; sourceTree = "<group>"; };
+		902B1B5E1955092300619573 /* StephaniesHexClock-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StephaniesHexClock-Prefix.pch"; sourceTree = "<group>"; };
 		902B1B5F1955092300619573 /* StephaniesHexClockView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StephaniesHexClockView.h; sourceTree = "<group>"; };
 		902B1B611955092300619573 /* StephaniesHexClockView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StephaniesHexClockView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
